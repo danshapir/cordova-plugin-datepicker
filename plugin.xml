@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-datepicker"
+    id="payoneer-plugin-datepicker"
     version="0.8.1">
 
     <name>DatePicker</name>
@@ -12,8 +12,6 @@
     <license>MIT</license>
 
     <keywords>cordova,phonegap,datepicker,android,ios,ios7,ios8,wp</keywords>
-
-    <repo>https://github.com/VitaliiBlagodir/cordova-plugin-datepicker.git</repo>
 
     <!-- android -->
     <platform name="android">
