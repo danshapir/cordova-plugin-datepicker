@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-datepicker",
+  "name": "payoneer-plugin-datepicker",
   "version": "0.8.1",
   "description": "Cordova DatePicker Plugin",
   "cordova": {
-    "id": "cordova-plugin-datepicker",
+    "id": "payoneer-plugin-datepicker",
     "platforms": [
       "ios",
       "android",
